@@ -59,5 +59,5 @@
 <hr>
 <h2 align="center">Data Stored in Sql DataBase<h2>
   <p align="center">
-  <img src="https://github.com/user-attachments/assets/fb3886c7-8a8d-4102-9f02-55ac3c271877" width="600" height="500"></p>
+  <img src="https://github.com/user-attachments/assets/fb3886c7-8a8d-4102-9f02-55ac3c271877" width="1000" height="500"></p>
 
